@@ -18,7 +18,7 @@ Oxford Parkinson's Disease Detection Dataset (UCI ML Repository #174)
 
 ```bash
 # Clone the repo
-git clone https://github.com/<your-username>/parkinsons-detection.git
+git clone https://github.com/AchintyaShah25/Ensemble_Parkinsons_detection.git
 cd parkinsons-detection
 
 # Create and activate virtual environment
