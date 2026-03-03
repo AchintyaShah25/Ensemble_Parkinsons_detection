@@ -1,0 +1,7 @@
+Model,Family,Features,Balanced Acc,Sensitivity,Specificity,MCC
+Logistic_L2,Linear (L2),SVM-RFE,0.7558,0.7784,0.7333,0.4629
+Logistic_L1,Linear (L1),SVM-RFE,0.7368,0.7737,0.7,0.43
+SVM_Linear,Linear,SVM-RFE,0.7193,0.7719,0.6667,0.392
+KNN,Instance-based,RF-RFE,0.7175,0.9184,0.5167,0.4267
+Random_Forest,Tree Ensemble,RF-RFE,0.6776,0.872,0.4833,0.3311
+SVM_RBF,Kernel,SVM-RFE,0.6706,0.7579,0.5833,0.3118

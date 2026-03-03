@@ -1,0 +1,7 @@
+Model,clf__C,clf__gamma,clf__metric,clf__n_neighbors,clf__weights,clf__max_depth,clf__min_samples_leaf,clf__min_samples_split,clf__n_estimators
+SVM_RBF,100.0,0.001,,,,,,,
+SVM_Linear,1.0,,,,,,,,
+KNN,,,euclidean,15,uniform,,,,
+Random_Forest,,,,,,3.0,2.0,10.0,50.0
+Logistic_L1,1.0,,,,,,,,
+Logistic_L2,0.1,,,,,,,,
